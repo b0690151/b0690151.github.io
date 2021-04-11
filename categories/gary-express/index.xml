@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gary Express</title>
+    <link>https://b0690151.github.io/categories/gary-express/</link>
+    <description>Recent content on Gary Express</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 11 Apr 2021 23:44:47 +0800</lastBuildDate><atom:link href="https://b0690151.github.io/categories/gary-express/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The first Gary Express Blog</title>
+      <link>https://b0690151.github.io/blog/test/</link>
+      <pubDate>Sun, 11 Apr 2021 23:44:47 +0800</pubDate>
+      
+      <guid>https://b0690151.github.io/blog/test/</guid>
+      <description>hello world
+Hello Gary
+Level1 level2 level3 level4 level5 level6 ####### no level 7</description>
+    </item>
+    
+  </channel>
+</rss>
